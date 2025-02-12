@@ -3,7 +3,7 @@
 	width: 100%;
 	background-color: black;
 	color: white;
-	font-size: 100px;
+	font-size: 200px;
 	border-radius: 2px;
 	display: block;
 }
@@ -11,7 +11,7 @@
 .pic { 
 	float: left;
 	margin: 0px;
-	width: 147.8px;
+	width: 295px;
 	border-radius: 2px;
 }
 
@@ -35,4 +35,8 @@ a:hover {
 
 body {
 	margin: 0;
+}
+
+.flexer {
+	flex: 2 1 auto;
 }
