@@ -1,0 +1,38 @@
+.top_page{
+	margin: auto;
+	width: 100%;
+	background-color: black;
+	color: white;
+	font-size: 100px;
+	border-radius: 2px;
+	display: block;
+}
+
+.pic { 
+	float: left;
+	margin: 0px;
+	width: 147.8px;
+	border-radius: 2px;
+}
+
+a:hover { 
+	color: green;
+}
+
+.drop1 {
+	background-color: white;
+	color: black;
+	padding: 16px;
+}
+
+.drop2 { 
+
+}
+
+.drop3 {
+	
+}
+
+body {
+	margin: 0;
+}
