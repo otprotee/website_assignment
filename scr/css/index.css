@@ -3,15 +3,22 @@
 	width: 100%;
 	background-color: black;
 	color: white;
-	font-size: 200px;
+	font-size: 75px;
 	border-radius: 2px;
-	display: block;
+	display: flex;
+	justify-content: centre;
+	align-items: centre-right;
+}
+
+.links {
+	width: 100%;
 }
 
 .pic { 
 	float: left;
 	margin: 0px;
-	width: 295px;
+	width: 15%;
+	height: 20%;
 	border-radius: 2px;
 }
 
